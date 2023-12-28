@@ -20,13 +20,13 @@ Input:
 >1 4 2 4 3 8  
 
 Output:  
->DOMAIN: { 1, 2, 3 }
->CODOMAIN: { 4, 8, 2 }
->RELATION: { (1,4), (2,4), (3,8) }
->This is a function.
->It is not onto.
->It is not one-to-one.
->It is not a bijection.
+>DOMAIN: { 1, 2, 3 }  
+>CODOMAIN: { 4, 8, 2 }  
+>RELATION: { (1,4), (2,4), (3,8) }  
+>This is a function.  
+>It is not onto.  
+>It is not one-to-one.  
+>It is not a bijection.  
 
 ## Usage
 1. Compile the Java code.

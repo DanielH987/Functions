@@ -1,0 +1,8 @@
+MAIN: { 1, 2, 3 }
+CODOMAIN: { 4, 8, 2 }
+RELATION: { (1,4), (2,2), (3,4) }
+This is a function.
+It is *not* onto.
+It is *not* one-to-one.
+It is *not* a bijection.
+
